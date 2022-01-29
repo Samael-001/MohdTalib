@@ -52,7 +52,7 @@ export default function Map() {
           <PText>Husainabaad, Lucknow, India</PText>
           <a
             className="map__card__link"
-            href="https://www.google.com/maps/place/GEC+More,+Chittagong/@22.3590818,91.8195583,17z/data=!3m1!4b1!4m5!3m4!1s0x30acd89aaa8239cd:0x6e65fa00001dd59f!8m2!3d22.3590715!4d91.8215486"
+            href="https://www.google.com/maps/d/u/0/viewer?ie=UTF8&t=h&oe=UTF8&msa=0&mid=1PRNsTVTx_mxFS944bTNCFZldOoI&ll=26.87551370862881%2C80.90264370447694&z=16"
             target="_blank"
             rel="noreferrer"
           >

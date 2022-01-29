@@ -102,12 +102,12 @@ export default function Footer() {
                 path: "tel:+918756562180",
               },
               {
-                title: "mohdtalibishere24022gmail.com",
-                path: "mailto:mohdtalibishere24022gmail.com",
+                title: "lunatic_samael@protonmail.com",
+                path: "mailto:lunatic_samael@protonmail.com",
               },
               {
                 title: "Lucknow, Husainabaad, India",
-                path: "http://google.com/maps",
+                path: "https://www.google.com/maps/d/u/0/viewer?ie=UTF8&t=h&oe=UTF8&msa=0&mid=1PRNsTVTx_mxFS944bTNCFZldOoI&ll=26.87551370862881%2C80.90264370447694&z=16",
               },
             ]}
           />

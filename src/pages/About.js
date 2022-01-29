@@ -88,7 +88,7 @@ export default function About() {
               <div className="about__info">
                 <PText>
                   I am from Lucknow, India. A place of Nawaab's and
-                  Historical Monuments. Since my childhood, i love computers. I always
+                  Historical Monuments. Since my childhood, I love computers. I always
                   try to learn more and more in about computers. I love
                   the Geeky Commandline Interface more than GUI.
                   <br /> <br />
